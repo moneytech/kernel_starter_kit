@@ -4,7 +4,6 @@ The goal of this repository is to provide the bare minimum
 functionality necessary for a simple kernel, compiled as a static library.
 
 Contained are documented C headers and sources for:
-* Multiboot2 (see [GNU Grub](https://www.gnu.org/software/grub/))
 * Manipulating the [Global Descriptor Table](https://wiki.osdev.org/GDT)
 * Manipulating the [Interrupt Descriptor Table](https://wiki.osdev.org/Interrupt_Descriptor_Table)
   * Handling interrupts
