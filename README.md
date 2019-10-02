@@ -11,4 +11,3 @@ Contained are documented C headers and sources for:
 * Memory management via [Paging](https://wiki.osdev.org/Paging)
 * Context switching, and manipulating the
 [Task State Segment](https://wiki.osdev.org/Task_State_Segment)
-* Using [newlib](https://sourceware.org/newlib/) to build a Ring 0 `libc`
